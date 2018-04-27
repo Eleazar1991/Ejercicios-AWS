@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "aws-sdk": "^2.229.1",
+    "uuid": "^3.2.1"
+  }
+}
